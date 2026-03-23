@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Urgent",
+    "priority": 5,
+    "deadline": "2026-02-20"
+  },
+  {
+    "title": "High Priority",
+    "priority": 5,
+    "deadline": "2026-02-28"
+  },
+  {
+    "title": "Study",
+    "priority": 1,
+    "deadline": "2026-02-20"
+  },
+  {
+    "title": "Low Priority",
+    "priority": 1,
+    "deadline": "2026-02-20"
+  }
+]
